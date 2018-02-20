@@ -6,7 +6,11 @@ body {
 
 .center {
     text-align: center;
-    text-color:red;
+    
+}
+.color{
+    color: #00ff00;
+
 }
 
 .text-big {
