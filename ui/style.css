@@ -6,12 +6,9 @@ body {
 
 .center {
     text-align: center;
-    
+    color:red;
 }
-.color{
-    color: red;
 
-}
 
 .text-big {
     font-size: 300%;
