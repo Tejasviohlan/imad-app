@@ -3,7 +3,7 @@ var element=document.getElementById('main-text');
 element;
 element.innerHTML='tejasvi ohlan';
 
-var image=document.getelementbyid('madi');
+var image=document.getElementById('madi');
 img.onclick= function(){
     img.style.marginleft='100px';
 }
